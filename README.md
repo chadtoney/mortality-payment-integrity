@@ -5,6 +5,10 @@ An investigation-only demonstration for comparing public mortality evidence with
 > [!IMPORTANT]
 > This repository contains synthetic data only. It is not an eligibility determination system and is not approved for production or use with personally identifiable information.
 
+## Investigator workbench
+
+![Mortality Review investigator workbench showing the synthetic case queue, mortality evidence, beneficiary comparison, explainable match score, and human review controls](docs/images/mortality-review-workbench.png)
+
 ## Demo workflow
 
 1. Normalize approved mortality evidence and synthetic beneficiary records.
