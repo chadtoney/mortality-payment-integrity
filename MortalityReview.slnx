@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MortalityReview.Api/MortalityReview.Api.csproj" />
+    <Project Path="src/MortalityReview.Application/MortalityReview.Application.csproj" />
+    <Project Path="src/MortalityReview.Domain/MortalityReview.Domain.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MortalityReview.Domain.Tests/MortalityReview.Domain.Tests.csproj" />
+  </Folder>
+</Solution>

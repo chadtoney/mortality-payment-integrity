@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "environmentName": {
+      "value": "mortality-dev-50f1"
+    },
+    "location": {
+      "value": "eastus2"
+    },
+    "sessionId": {
+      "value": "50f13458-e971-477c-b809-3064d69d38b4"
+    },
+    "deployedBy": {
+      "value": "manual-deployment"
+    },
+    "createdAt": {
+      "value": "2026-09-01T00:11:28.3999627Z"
+    }
+  }
+}
